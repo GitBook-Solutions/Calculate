@@ -11,6 +11,7 @@ namespace CalOperations
         static void Main(string[] args)
         {
             IMathOperations _MathOperations=new MathOperations();
+             log.Info("This is Math Operations");
             Console.WriteLine("Enter Number:");
             int n1=  Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter another Number:");
