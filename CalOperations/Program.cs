@@ -16,7 +16,7 @@ namespace CalOperations
             int n1=  Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter another Number:");
             int n2= Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter your Math Operation: \n Press 1 to Addition \n Press 2 to substract\n");
+            Console.WriteLine("Enter your Math Operation: \n Press 1 to Addition \n Press 2 to substract\n Press 3 to Multiplication\n");
             int n3= Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your Option is : "+n3);
             log.Info("You have entered numbers are "+n1+" and "+n2);
@@ -33,6 +33,12 @@ namespace CalOperations
                 int sum2=_MathOperations.Substraction(n1,n2);
                 Console.WriteLine("Substraction of "+n1+" and "+n2+" is "+sum2);
                 log.Info("Substraction of "+n1+" and "+n2+" is "+sum2);
+               break;
+               case 3:
+                log.Info("Your Option is Multiplication");
+                int result2=_MathOperations.Multiplication(n1,n2);
+                Console.WriteLine("Multiplication of "+n1+" and "+n2+" is "+result2);
+                log.Info("Multiplication of "+n1+" and "+n2+" is "+result2);
                break;
                default:
                 Console.WriteLine("Invalid option!!!");
