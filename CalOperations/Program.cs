@@ -11,7 +11,7 @@ namespace CalOperations
         static void Main(string[] args)
         {
             IMathOperations _MathOperations=new MathOperations();
-             log.Info("This is Math Operations");
+            log.Info("This is Math Operations");
             Console.WriteLine("Enter Number:");
             int n1=  Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter another Number:");
@@ -19,6 +19,7 @@ namespace CalOperations
             Console.WriteLine("Enter your Math Operation: \n Press 1 to Addition \n Press 2 to substract\n");
             int n3= Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your Option is : "+n3);
+            log.Info("You have entered numbers are "+n1+" and "+n2);
             switch (n3)
             {
                case 1:
