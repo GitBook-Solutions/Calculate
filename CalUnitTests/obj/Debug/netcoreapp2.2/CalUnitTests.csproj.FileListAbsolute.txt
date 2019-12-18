@@ -1,0 +1,17 @@
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.csprojAssemblyReference.cache
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.csproj.CoreCompileInputs.cache
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.AssemblyInfoInputs.cache
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.AssemblyInfo.cs
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\CalUnitTests.deps.json
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\CalUnitTests.runtimeconfig.json
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\CalUnitTests.runtimeconfig.dev.json
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\CalUnitTests.dll
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\CalUnitTests.pdb
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\MathOperationsLib.dll
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\bin\Debug\netcoreapp2.2\MathOperationsLib.pdb
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.csproj.CopyComplete
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.dll
+D:\Shyam WorkSpace\Projects\Calculate\CalUnitTests\obj\Debug\netcoreapp2.2\CalUnitTests.pdb
